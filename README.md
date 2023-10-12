@@ -49,15 +49,15 @@ Active ticket set up before being assigned to Agents or Users
 <img src="https://i.imgur.com/RJaKc9i.png" height="80%" width="80%" alt="Workimg on a ticket"/>
 </p>
 <p>
-Active ticket set up before being assigned to Agents or Users
+Working on an active ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/ORGOXfZ.png" height="40%" width="40%" alt="Workimg on a ticket"/>
-<img src="https://i.imgur.com/23KtEm7.png" height="40%" width="40%" alt="Workimg on a ticket"/>
+<img src="https://i.imgur.com/ORGOXfZ.png" height="40%" width="40%" alt="Resolving on a ticket"/>
+<img src="https://i.imgur.com/23KtEm7.png" height="40%" width="40%" alt="Resolved ticket"/>
 </p>
 <p>
-Active ticket set up before being assigned to Agents or Users
+Resolving a ticket and having it resolved.
 </p>
 <br />
