@@ -38,7 +38,7 @@ Active tickets and assignments for Users and Agents.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Re8iX3T.png" height="80%" width="80%" alt="Opening a ticket"/>
+<img src="https://i.imgur.com/ILqrTQG.png" height="80%" width="80%" alt="Opening a ticket"/>
 </p>
 <p>
 Active ticket set up before being assigned to Agents or Users
